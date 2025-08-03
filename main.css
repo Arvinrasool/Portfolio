@@ -576,7 +576,7 @@ a{
     #about p {
         margin: 1rem;
         padding: 0;
-        text-align: center;
+        text-align: justify;
     }
     
     .aboutimg {
