@@ -197,18 +197,16 @@ a{
 #about p{
     font-size: 20px;
     color: white;
-    text-align: center;
+    text-align: justify;
     margin: 1rem 8rem;
     line-height: 1.5;
     padding: 0 22rem 0rem 0rem;
     width: 100%;
 }
 
-#about button{
-    margin-bottom: 3rem;
-    padding: 10px 20px;
-    font-size: 20px;
-    color: white;
+.aboutbtn{
+    display: flex;
+    justify-content: center;
 }
 
 #project_card{
